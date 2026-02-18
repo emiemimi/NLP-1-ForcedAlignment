@@ -1,0 +1,1166 @@
+signal s1102.sd
+type 0
+comment created using xlabel Thu Jan 19 20:41:15 2006
+comment M Y
+color 122
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 3
+#
+   0.300000 122 {B_TRANS}; B; B
+   0.727000 122 <NOISE>; U; U
+   0.814000 122 i'm; ay m; ah m
+   1.087000 122 sitting; s ih t ih ng; s ih ng
+   1.248000 122 here; hh ih r; hh iy r
+   1.504000 122 now; n aw; n aw
+   2.014000 122 scott; s k aa t; s k aa tq
+   2.068000 122 i; ay; aa
+   2.265000 122 bet; b eh t; b eh t
+   2.442000 122 you; y uw; sh y ah
+   2.571000 122 on; aa n; ow n
+   2.864000 122 monday; m ah n d ey; m ah n d ey
+   3.266000 122 nights; n ay t s; n ay t s
+   3.652000 122 game; g ey m; g ey m
+   4.151000 122 tonight; t ah n ay t; t ah n ay tq
+   4.439000 122 nine; n ay n; n ay nx
+   4.894000 122 o'clock; ah k l aa k; ah k l aa k
+   5.044000 122 la; l aa; l ae
+   5.162000 122 la; l aa; l aa
+   5.472000 122 la; l aa; l aa
+   5.678000 122 so; s ow; s ah
+   5.763000 122 and; ae n d; ahn
+   6.034000 122 so; s ow; s ow
+   6.100000 122 will; w ih l; el
+   6.424000 122 win; w ih n; w ih n
+   7.003672 122 <VOCNOISE>; U; U
+   7.306000 122 <SIL>; S; S
+   7.514000 122 yknow; y uw n ow; ih n ow
+   7.693000 122 and; ae n d; ehn
+   7.920000 122 we; w iy; w iy
+   8.184000 122 <SIL>; S; S
+   8.512000 122 don't; d ow n t; d ow n tq
+   8.788000 122 <SIL>; S; S
+   9.276000 122 exchange; eh k s ch ey n jh; ih k s ch ey n jh
+   9.431000 122 any; eh n iy; ih n iy
+   9.844000 122 money; m ah n iy; m ah n iy
+   9.934000 122 or; ow r; er
+   10.129000 122 have; hh ae v; hh ae v
+   10.231000 122 any; eh n iy; iyn
+   10.524000 122 money; m ah n iy; m ah nx iy
+   10.952000 122 figures; f ih g y uw r z; f ih g y er s
+   11.315000 122 planned; p l ae n d; p l ae n d
+   11.533000 122 out; aw t; aw t
+   11.884000 122 just; jh ah s t; jh ih s
+   11.975000 122 <SIL>; S; S
+   12.328000 122 yknow; y uw n ow; y ih n ow
+   12.502000 122 <SIL>; S; S
+   12.740000 122 oh; ow; ow
+   13.092000 122 well; w eh l; w eh l
+   13.395000 122 that's; dh ae t s; dh ae t sh
+   13.513000 122 your; y ow r; y er
+   13.822000 122 team; t iy m; t iy m
+   13.972000 122 that's; dh ae t s; ae t s
+   14.022000 122 <SIL>; S; S
+   14.172000 122 my; m ay; m ay
+   14.475000 122 team; t iy m; t iy m
+   14.752000 122 lets; l eh t s; l uh s
+   14.776867 122 <SIL>; S; S
+   15.012000 122 go; g ow; g ow
+   15.213000 122 at; ae t; ae dx
+   15.365000 122 it; ih t; ih tq
+   15.500000 122 <UNKNOWN-and>; U; U
+   15.886000 122 <IVER>; S; S
+   15.995000 122 <SIL>; S; S
+   16.423000 122 yeah; y ae; y eh ah
+   16.940075 122 <VOCNOISE>; U; U
+   17.085000 122 <SIL>; S; S
+   17.148000 122 and; ae n d; ehn
+   17.234000 122 it; ih t; ih
+   17.511000 122 makes; m ey k s; m ey k s
+   17.715000 122 it; ih t; ih tq
+   17.935000 122 <SIL>; S; S
+   18.166000 122 yknow; y uw n ow; ih x ow
+   18.524000 122 fun; f ah n; f ah n
+   18.704000 122 so; s ow; s uh
+   18.849000 122 you; y uw; y iy
+   19.115000 122 can; k ae n; k ih n
+   19.205000 122 <SIL>; S; S
+   19.567000 122 actually; ae k ch uw l iy; ae k sh l iy
+   19.963000 122 see; s iy; s iy
+   20.259000 122 what; w ah t; w ah tq
+   20.937000 122 <SIL>; S; S
+   21.272000 122 yknow; y uw n ow; y iy n ow
+   21.683000 122 your; y ow r; y er
+   21.845000 122 <SIL>; S; S
+   22.346000 122 studying; s t ah d iy ih ng; s t ah dx iy ih n
+   22.532000 122 these; dh iy z; iy z
+   22.965000 122 teams; t iy m z; t iy m z
+   23.230040 122 <SIL>; S; S
+   23.678000 122 does; d ow z; d ah zh
+   23.968000 122 yknow; y uw n ow; y ih n ah
+   24.538499 122 <VOCNOISE>; U; U
+   24.925000 122 <SIL>; S; S
+   25.006000 122 you; y uw; y iy
+   25.144000 122 can; k ae n; g eng
+   25.332000 122 go; g ow; g ow
+   25.380000 122 a; ey; ah
+   25.564000 122 whole; hh ow l; hh ow
+   26.225000 122 season; s iy z ah n; s iy z en
+   26.445000 122 <SIL>; S; S
+   26.751000 122 yknow; y uw n ow; y iy n ow
+   27.278000 122 seventeen; s eh v ah n t iy n; s eh v en t iy n
+   27.675000 122 eighteen; ey t iy n; ey t iy n
+   27.816000 122 and; ae n d; eh n
+   28.185000 122 o; ow; ow
+   28.315000 122 <SIL>; S; S
+   28.707000 122 and; ae n d; eh n
+   29.001000 122 <SIL>; S; S
+   29.710000 122 nobody's; n ow b ah d iy z; n ow b ah iy z
+   30.147536 122 <SIL>; S; S
+   30.397000 122 pretty; p r ih t iy; p r iy
+   30.642000 122 much; m ah ch; m ah ch
+   30.930000 122 coming; k ah m ih ng; k ah m ih ng
+   31.279000 122 close; k l ow z; k l ow s
+   31.378000 122 to; t uw; t iy
+   31.585000 122 your; y ow r; y uh r
+   32.209000 122 standard; s t ae n d er d; s t ae n d er d
+   32.392000 122 and; ae n d; en
+   33.287826 122 <VOCNOISE>; U; U
+   34.308000 122 <SIL>; S; S
+   34.472000 122 when; w eh n; w ih n
+   34.608000 122 you; y uw; y uw
+   34.755000 122 win; w ih n; w eh nx
+   34.891000 122 all; aa l; ao
+   35.000000 122 that; dh ae t; l eh tq
+   35.381000 122 money; m ah n iy; m ah n iy
+   35.574000 122 it's; ih t s; ih t s
+   35.813000 122 just; jh ah s t; ch ih s
+   36.029000 122 like; l ay k; l ay k
+   36.411000 122 yeah; y ae; y eh
+   36.593000 122 when; w eh n; w eh n
+   36.705000 122 you; y uw; y ih
+   36.906000 122 lose; l uw z; l uh z
+   37.004000 122 all; aa l; ao
+   37.086000 122 that; dh ae t; ah
+   37.380000 122 money; m ah n iy; m ah n iy
+   37.541000 122 it's; ih t s; ih s
+   37.794000 122 like; l ay k; ay k
+   39.108664 122 <VOCNOISE>; U; U
+   39.270000 122 <SIL>; S; S
+   39.541000 122 that's; dh ae t s; hh ae t s
+   39.751000 122 it; ih t; ih tq
+   39.781000 122 <SIL>; S; S
+   40.258000 122 <LAUGH-I'm>; U; U
+   40.475000 122 going; g ow ih ng; g ow ah n
+   40.723000 122 home; hh ow m; hh ow m
+   41.544000 122 <LAUGH>; U; U
+   42.272166 122 <VOCNOISE>; U; U
+   43.260384 122 <LAUGH>; U; U
+   43.742000 122 but; b ah t; b ah tq
+   44.137000 122 <SIL>; S; S
+   44.384000 122 i've; ay v; aa m
+   44.688000 122 known; n ow n; n ow n
+   45.049000 122 people; p iy p el; p iy p uh
+   45.129000 122 that; dh ae t; ah
+   45.773000 122 gamble; g ae m b el; g ae m b el
+   45.974000 122 <SIL>; S; S
+   46.331000 122 yknow; y uw n ow; y ih n ow
+   47.347000 122 compulsively; k ah m p ah l s ih v l iy; k ah m p ah l s ih v l iy
+   48.244000 122 <SIL>; S; S
+   48.285000 122 i; ay; em
+   48.425000 122 mean; m iy n; m iyn
+   48.590000 122 it's; ih t s; ih s
+   48.734000 122 like; l ay k; ay k
+   48.830000 122 a; ey; ey
+   48.928000 122 <CUTOFF-g=gambler>; U; U
+   49.454926 122 <SIL>; S; S
+   50.005000 122 gamblers; g ae m b l er z; g ae m b l ah r z
+   50.790000 122 anonymous; ah n aa n ih m ah s; eh n aa nx ah m ah s
+   51.685000 122 <SIL>; S; S
+   52.140000 122 level; l eh v el; l eh v el
+   53.287000 122 <SIL>; S; S
+   53.448000 122 i; ay; ae
+   53.817000 122 couldn't; k uh d en t; k ih d en
+   54.142000 122 really; r iy l iy; r ih l iy
+   54.486000 122 get; g eh t; g ih dx
+   54.707000 122 into; ih n t uw; ih n uh
+   55.016000 122 that; dh ae t; dh ae tq
+   55.374000 122 <SIL>; S; S
+   55.579000 122 number; n ah m b er; hh ah m b er
+   55.802000 122 one; w ah n; w ah nx
+   55.901000 122 i'm; ay m; ah n
+   56.066000 122 not; n aa t; n aa t
+   56.172334 122 the; dh iy; t uh
+   56.487000 122 richest; r ih ch ah s t; r ih ch ih s
+   56.828000 122 person; p er s ah n; p er s en
+   56.941000 122 in; ih n; eh n
+   56.992000 122 the; dh iy; ah
+   57.371000 122 world; w er l d; w er l d
+   57.498000 122 and; ae n d; en
+   57.752000 122 number; n ah m b er; n ah m b er
+   58.184000 122 two; t uw; t uw
+   58.490756 122 <SIL>; S; S
+   58.842000 122 just; jh ah s t; d ih s
+   59.180310 122 <SIL>; S; S
+   59.596085 122 <VOCNOISE>; U; U
+   59.993000 122 <SIL>; S; S
+   60.138000 122 little; l ih t el; l uh el
+   60.408000 122 money; m ah n iy; m ah n iy
+   60.743669 122 here; hh ih r; hh ih r
+   60.850000 122 is; ih z; zh
+   61.088000 122 one; w ah n; w ah n
+   61.387000 122 thing; th ih ng; th ey ng
+   61.714000 122 but; b ah t; b ah t
+   61.818000 122 <SIL>; S; S
+   61.967000 122 when; w eh n; w ih n
+   62.093000 122 you're; y uw r; y ih
+   62.171000 122 <CUTOFF-j=just>; U; U
+   62.283000 122 <SIL>; S; S
+   62.454000 122 out; aw t; aw t
+   62.633000 122 there; dh eh r; th ih r
+   63.194000 122 spending; s p eh n d ih ng; s p eh n ih ng
+   63.493000 122 your; y ow r; y er
+   64.446650 122 <SIL>; S; S
+   64.783000 122 car; k aa r; k aa r
+   65.275000 122 insurance; ih n sh uw r ah n s; en sh ah eh n s
+   65.604000 122 money; m ah n iy; m ah n iy
+   65.839000 122 on; aa n; ao nx
+   66.036000 122 it; ih t; ih d
+   66.298000 122 or; ow r; er
+   66.899249 122 <VOCNOISE>; U; U
+   67.691000 122 <SIL>; S; S
+   68.101000 122 rent; r eh n t; r aen tq
+   68.468000 122 money; m ah n iy; m ah n iy
+   68.861000 122 then; dh eh n; dh eh n
+   68.995000 122 <SIL>; S; S
+   69.073000 122 you; y uw; y iy
+   69.279000 122 got; g aa t; g eh
+   69.369000 122 a; ey; ah
+   69.611000 122 real; r ih l; r ih l
+   70.151000 122 problem; p r aa b l ah m; p r aa b em
+   70.414000 122 there; dh eh r; dh eh r
+   71.153000 122 <SIL>; S; S
+   71.245000 122 i've; ay v; ah v
+   71.541000 122 seen; s iy n; s iy ng
+   71.821000 122 guys; g ay z; g ay z
+   72.004000 122 do; d uw; d uw
+   72.233000 122 that; dh ae t; dh eh t
+   72.575000 122 to; t uw; t uw
+   73.772000 122 <SIL>; S; S
+   73.940000 122 go; g ow; g eh
+   74.154000 122 down; d aw n; d aw n
+   74.198000 122 to; t uw; ah
+   74.616000 122 scioto; s ay ow t ow; s ay ow dx uh
+   75.035000 122 downs; d aw n z; d aw n z
+   75.135000 122 and; ae n d; uh n
+   75.355780 122 bet; b eh t; b eh t
+   75.494000 122 the; dh iy; dh ah
+   75.833000 122 <SIL>; S; S
+   76.055000 122 bet; b eh t; b eh t
+   76.153000 122 the; dh iy; t ah
+   76.650000 122 farm; f aa r m; f aa r m
+   76.985000 122 on; aa n; ow n
+   77.135000 122 <SIL>; S; S
+   77.475000 122 one; w ah n; w ah n
+   77.945000 122 horse; hh ow r s; hh ow r s
+   78.227000 122 and; ae n d; en
+   78.824000 122 <SIL>; S; S
+   79.037000 122 wouldn't; w uh d en t; w ih d en
+   79.242000 122 even; iy v ah n; iy uh n
+   79.371000 122 do; d uw; d ih
+   79.858000 122 anything; eh n iy th ih ng; eh n iy th ih ng
+   80.137000 122 for; f ow r; f ao r
+   80.272634 122 them; dh eh m; ah m
+   82.523923 122 <SIL>; S; S
+   86.621000 122 <IVER>; S; S
+   87.091000 122 <SIL>; S; S
+   87.316000 122 well; w eh l; w ah
+   87.414804 122 you; y uw; y iy
+   87.632000 122 got; g aa t; g ah t
+   87.962000 122 the; dh iy; dh ah
+   88.541343 122 <SIL>; S; S
+   89.440000 122 casinos; k ah s iy n ow z; k ih s iy nx ow z
+   89.970000 122 <SIL>; S; S
+   90.205000 122 river; r ih v er; r eh v er
+   90.416000 122 boat; b ow t; b ow tq
+   91.050872 122 casinos; k ah s iy n ow z; k ah s iy n uh z
+   91.509000 122 open; ow p ah n; ow p ah n
+   91.577000 122 you; y uw; y iy
+   91.812000 122 got; g aa t; g aa t
+   92.278000 122 <SIL>; S; S
+   92.499000 122 all; aa l; ao l
+   92.729000 122 the; dh iy; dh ah
+   93.312661 122 <SIL>; S; S
+   93.542000 122 pretty; p r ih t iy; p r iy
+   93.799000 122 much; m ah ch; m ah ch
+   94.248000 122 every; eh v r iy; eh v r iy
+   94.378000 122 <SIL>; S; S
+   94.736000 122 store; s t ow r; s t ow r
+   94.926000 122 on; aa n; ao n
+   94.979980 122 the; dh iy; uh
+   95.495000 122 corners; k ow r n er z; k ao r n er z
+   95.696000 122 got; g aa t; g aa dx
+   95.818000 122 a; ey; ah
+   96.148000 122 <SIL>; S; S
+   96.508000 122 lottery; l aa t ah r iy; l aa dx er iy
+   97.056000 122 machine; m ah sh iy n; m ih sh iy n
+   97.217000 122 or; ow r; er
+   97.504000 122 <SIL>; S; S
+   98.138000 122 tickets; t ih k ih t s; t ih k ih t s
+   98.407696 122 <SIL>; S; S
+   100.998755 122 <IVER>; S; S
+   101.627000 122 <SIL>; S; S
+   101.725000 122 i; ay; aa
+   101.963000 122 think; th ih ng k; th ih ng
+   102.097000 122 it; ih t; ih d
+   102.298325 122 is; ih z; ih z
+   102.332000 122 a; ey; ih
+   102.485000 122 good; g uh d; g ih dx
+   102.857000 122 idea; ay d iy ah; ay d iy ih
+   103.172000 122 because; b ih k ah z; b iy k uh z
+   103.335000 122 i've; ay v; aw v
+   103.503000 122 won; w ah n; w ah n
+   103.647000 122 my; m ay; m ay
+   103.894000 122 fair; f eh r; f eh r
+   104.232000 122 share; sh eh r; sh eh r
+   104.337000 122 of; ah v; ah v
+   104.653000 122 money; m ah n iy; m ah nx iy
+   105.473000 122 <LAUGH-on_the_lottery>; U; U
+   106.096506 122 <VOCNOISE>; U; U
+   106.263000 122 <SIL>; S; S
+   106.322000 122 they; dh ey; ey
+   106.532000 122 give; g ih v; g ih v
+   107.036000 122 everybody; eh v r iy b ah d iy; eh v r iy b aa eh
+   107.073219 122 a; ey; ih
+   107.364000 122 fair; f eh r; f eh r
+   107.868000 122 chance; ch ae n s; ch ae n s
+   108.129000 122 yknow; y uw n ow; y ih n ow
+   108.262000 122 they; dh ey; dh ey
+   108.483000 122 don't; d ow n t; dx own tq
+   109.181000 122 <SIL>; S; S
+   109.549000 122 just; jh ah s t; jh ih s
+   110.567000 122 <SIL>; S; S
+   111.110000 122 minimize; m ih n ih m ay z; m eh n ah m ay z
+   111.202000 122 it; ih t; ih t
+   111.370077 122 to; t uw; t ah
+   111.783000 122 one; w ah n; w ah n
+   111.882000 122 or; ow r; er
+   112.409000 122 two; t uw; t ih uw
+   112.646455 122 <SIL>; S; S
+   112.833252 122 <VOCNOISE>; U; U
+   113.412000 122 <SIL>; S; S
+   113.743000 122 yknow; y uw n ow; n ih n eh
+   114.057000 122 <SIL>; S; S
+   114.332000 122 some; s ah m; s ah m
+   114.452000 122 of; ah v; ah v
+   114.523000 122 them; dh eh m; em
+   114.778000 122 have; hh ae v; hh ae v
+   115.487000 122 options; aa p sh ah n z; aa p sh en z
+   116.685000 122 <SIL>; S; S
+   116.940000 122 and; ae n d; eh n
+   117.188000 122 some; s ah m; s ah m
+   117.294000 122 of; ah v; ah v
+   117.377000 122 them; dh eh m; em
+   117.621000 122 don't; d ow n t; d ow n tq
+   119.190377 122 <SIL>; S; S
+   126.851000 122 <IVER>; S; S
+   127.188000 122 yeah; y ae; n y eh
+   127.617000 122 it's; ih t s; ah t s
+   127.942000 122 <SIL>; S; S
+   128.257000 122 just; jh ah s t; jh ih s
+   128.529000 122 like; l ay k; l ay k
+   128.795000 122 uh; ah; ah
+   129.154000 122 <SIL>; S; S
+   129.524000 122 having; hh ae v ih ng; hh ae v iy n
+   130.024000 122 alcohol; ae l k ah hh aa l; ae l k ah hh ao l
+   130.451000 122 around; ah r aw n d; ah r aw n d
+   131.172000 122 <SIL>; S; S
+   131.562000 122 mean; m iy n; m iy n
+   131.718000 122 <SIL>; S; S
+   132.189000 122 gambling; g ae m b l ih ng; g ae m b l ih ng
+   132.402000 122 is; ih z; ih z
+   132.447000 122 a; ey; ah
+   132.652000 122 lot; l aa t; l aa
+   132.942000 122 like; l ay k; l ay k
+   133.360000 122 alcohol; ae l k ah hh aa l; aw k ah ao
+   133.455000 122 it; ih t; ah t
+   133.704000 122 can; k ae n; k ih n
+   133.966000 122 be; b iy; b iy
+   134.550000 122 addicting; ah d ih k t ih ng; ih d ih k t iy ng
+   134.638000 122 it; ih t; ih
+   134.824000 122 can; k ae n; k ih n
+   135.195000 122 screw; s k r uw; s k er
+   135.294000 122 your; y ow r; y ih
+   135.684000 122 life; l ay f; l ay f
+   135.992000 122 up; ah p; ah p
+   136.262000 122 and; ae n d; ah n
+   136.622761 122 <VOCNOISE>; U; U
+   136.839000 122 <SIL>; S; S
+   136.993000 122 you'll; y uw l; y ah
+   137.405000 122 spend; s p eh n d; s p eh n
+   137.502000 122 your; y ow r; y ih
+   137.834000 122 last; l ae s t; l ae s
+   138.215000 122 dollar; d aa l er; d ae l er
+   138.361000 122 on; aa n; ao n
+   138.438000 122 it; ih t; ih
+   138.649000 122 if; ih f; ih f
+   138.924000 122 you're; y uw r; y uh r
+   139.374000 122 that; dh ae t; dh ae tq
+   139.779000 122 far; f aa r; f aa r
+   140.260000 122 gone; g aa n; g ao n
+   141.487000 122 <SIL>; S; S
+   141.800000 122 so; s ow; s ow
+   142.106000 122 pretty; p r ih t iy; p r ih dx iy
+   142.443000 122 much; m ah ch; m ah ch
+   142.920000 122 anything; eh n iy th ih ng; eh n iy th ih ng
+   143.120000 122 can; k ae n; k eh m
+   143.530000 122 be; b iy; b iy
+   144.334000 122 <SIL>; S; S
+   144.587000 122 one; w ah n; w ah nx
+   144.662000 122 of; ah v; ah
+   145.257000 122 those; dh ow z; dh ow z
+   146.169000 122 factors; f ae k t er z; f ae k t er z
+   146.927000 122 <LAUGH>; U; U
+   147.426859 122 <VOCNOISE>; U; U
+   152.594000 122 <IVER>; S; S
+   152.734000 122 <SIL>; S; S
+   152.947000 122 well; w eh l; w ah l
+   153.192000 122 most; m ow s t; m ah s
+   153.544000 122 people; p iy p el; p iy p l uh
+   153.894000 122 think; th ih ng k; th ih ng k
+   154.354000 122 it's; ih t s; ih t s
+   154.535000 122 <SIL>; S; S
+   155.021000 122 something; s ah m th ih ng; s ah n t ih n
+   155.144000 122 they; dh ey; ey
+   155.633000 122 rely; r iy l ay; r ih l ay
+   155.852000 122 on; aa n; ao n
+   156.102000 122 like; l ay k; l ay k
+   156.439000 122 <SIL>; S; S
+   156.658442 122 well; w eh l; w ah
+   156.791397 122 the; dh iy; dh ah
+   156.881000 122 <UNKNOWN>; U; U
+   157.000000 122 <SIL>; S; S
+   157.304000 122 money; m ah n iy; m ah n iy
+   157.765000 122 getting; g eh t ih ng; g eh tq en
+   158.452000 122 <SIL>; S; S
+   158.689000 122 from; f r ah m; f ah m
+   158.747205 122 the; dh iy; ah
+   159.293000 122 lottery; l aa t ah r iy; l aa dx er iy
+   159.495000 122 to; t uw; t uh
+   159.572000 122 the; dh iy; dh uh
+   160.114000 122 people; p iy p el; p iy p ow
+   160.340000 122 or; ow r; ow r
+   160.726000 122 <SIL>; S; S
+   161.049000 122 lottery; l aa t ah r iy; l aa dx er iy
+   161.250000 122 to; t uw; t ih
+   161.849000 122 schools; s k uw l z; s k uw l z
+   162.412806 122 <VOCNOISE>; U; U
+   162.716000 122 <SIL>; S; S
+   162.859000 122 on; aa n; ao n
+   163.033000 122 that; dh ae t; ae dx
+   163.469000 122 issue; ih sh uw; ih sh uw
+   163.858000 122 then; dh eh n; dh eh n
+   164.263000 122 yeah; y ae; y ae
+   164.373000 122 i; ay; ah
+   164.753000 122 <SIL>; S; S
+   164.827000 122 i; ay; ay
+   165.086000 122 agree; ah g r iy; eh g r iy
+   165.328000 122 with; w ih th; w uh th
+   165.487000 122 <SIL>; S; S
+   165.633000 122 the; dh iy; dh ih
+   166.304000 122 gambling; g ae m b l ih ng; g ae m b l iy ng
+   166.742000 122 thing; th ih ng; th ih ng
+   167.443000 122 <SIL>; S; S
+   167.747000 122 yknow; y uw n ow; n ow
+   167.947000 122 <SIL>; S; S
+   168.194000 122 just; jh ah s t; jh ih s
+   168.304000 122 as; ae z; z
+   168.512000 122 long; l aa ng; l aon
+   168.618000 122 as; ae z; ah z
+   169.033000 122 it's; ih t s; ih t s
+   169.559301 122 <SIL>; S; S
+   169.715970 122 <VOCNOISE>; U; U
+   170.107000 122 <SIL>; S; S
+   170.338000 122 like; l ay k; l ay k
+   170.395000 122 <SIL>; S; S
+   170.848000 122 social; s ow sh el; s ah sh uh l
+   171.361000 122 drinking; d r ih ng k ih ng; jh r ih ng k iy ng
+   171.447000 122 <SIL>; S; S
+   171.978000 122 <LAUGH>; U; U
+   172.469715 122 <VOCNOISE>; U; U
+   172.608000 122 <SIL>; S; S
+   172.746000 122 in; ih n; eh nx
+   172.811000 122 a; ey; ih
+   173.369000 122 sense; s eh n s; s eh n s
+   173.735000 122 <SIL>; S; S
+   174.090000 122 because; b ih k ah z; k eh z
+   174.302000 122 if; ih f; eh f
+   174.373000 122 you; y uw; y iy
+   174.758000 122 have; hh ae v; hh ae v
+   175.091000 122 people; p iy p el; p iy p uh
+   175.441000 122 just; jh ah s t; jh ih s
+   175.874247 122 <VOCNOISE>; U; U
+   176.069000 122 <SIL>; S; S
+   176.226000 122 go; g ow; g ow
+   176.509000 122 out; aw t; aw tq
+   176.764000 122 <SIL>; S; S
+   176.898000 122 like; l ay k; ay k
+   177.248000 122 today; t ah d ey; t uh dx ey
+   177.359000 122 i; ay; ah
+   177.490000 122 <CUTOFF-b=bought>; U; U
+   178.042000 122 <SIL>; S; S
+   178.093000 122 i; ay; aa
+   178.326000 122 bought; b aa t; b ao dx
+   178.394000 122 a; ey; ah
+   178.605000 122 one; w ah n; w ah n
+   178.878000 122 dollar; d aa l er; d ae l uh
+   179.243000 122 lottery; l aa t ah r iy; l aa dx uh iy
+   179.608000 122 ticket; t ih k ih t; t ih k ih tq
+   179.820000 122 won; w ah n; w ah n
+   179.996000 122 two; t uw; t uw
+   180.292000 122 bucks; b ah k s; b ah k s
+   180.482000 122 off; aa f; ao f
+   180.612000 122 of; ah v; ah v
+   180.692000 122 it; ih t; uh tq
+   181.981000 122 <SIL>; S; S
+   182.136000 122 so; s ow; s ah
+   182.202000 122 i; ay; ay
+   182.414000 122 kept; k eh p t; k eh p
+   182.553000 122 my; m ay; m aa
+   182.784000 122 one; w ah n; w ah n
+   183.184000 122 dollar; d aa l er; d aa l er
+   183.399000 122 and; ae n d; ah n
+   183.611000 122 uh; ah; ah
+   183.944000 122 <SIL>; S; S
+   184.101000 122 got; g aa t; g aa dx
+   184.129000 122 a; ey; ah
+   184.314000 122 one; w ah n; w ah n
+   184.574000 122 dollar; d aa l er; d aa l er
+   184.803000 122 added; ae d ah d; ae d en
+   185.034000 122 on; aa n; ao n
+   189.640000 122 <SIL>; S; S
+   189.882000 122 yeah; y ae; y eh
+   190.168000 122 there's; dh eh r z; dh eh r s
+   193.436000 122 <VOCNOISE>; U; U
+   196.155000 122 <LAUGH>; U; U
+   196.767000 122 <SIL>; S; S
+   196.867000 122 and; ae n d; eh n
+   197.098000 122 then; dh eh n; eh n
+   197.472000 122 <SIL>; S; S
+   197.684000 122 then; dh eh n; dh eh n
+   197.945000 122 there's; dh eh r z; eh r z
+   198.147000 122 these; dh iy z; iy z
+   198.442000 122 um; ah m; ah m
+   199.886706 122 <NOISE>; U; U
+   200.050000 122 little; l ih t el; l ah
+   200.209000 122 bit; b ih t; b ih
+   200.385000 122 more; m ow r; m ah r
+   200.902000 122 expensive; eh k s p eh n s ih v; uh k s p eh n t s ih v
+   201.495000 122 cards; k aa r d z; k aa r d s
+   201.570000 122 you; y uw; y uw
+   201.900000 122 buy; b ay; b ay
+   202.147000 122 the; dh iy; dh eh
+   202.878000 122 <SIL>; S; S
+   203.257000 122 lottery; l aa t ah r iy; l aa dx er iy
+   203.769000 122 cards; k aa r d z; k aa r d s
+   203.877000 122 <SIL>; S; S
+   204.029000 122 one; w ah n; w ah nx
+   204.087000 122 of; ah v; ah
+   204.229000 122 them's; dh eh m z; em z
+   204.500000 122 called; k aa l d; k ao d
+   205.053000 122 battleship; b ae t el sh ih p; b ae dx ah l sh ih
+   205.249000 122 that; dh ae t; dh eh dx
+   205.519000 122 i've; ay v; ay v
+   205.929000 122 <SIL>; S; S
+   206.219000 122 won; w ah n; w ah n
+   206.474697 122 <SIL>; S; S
+   206.634000 122 lot; l aa t; l aa dx
+   206.669000 122 of; ah v; ah
+   206.987000 122 money; m ah n iy; m ah n iy
+   207.181000 122 off; aa f; ao f
+   207.409000 122 of; ah v; ah v
+   211.682000 122 <IVER>; S; S
+   212.214000 122 <SIL>; S; S
+   212.549000 122 well; w eh l; w ah
+   212.717000 122 you; y uw; y ih
+   213.141000 122 hafta; hh ae v t uw; hh ae f t uh
+   213.589174 122 <IVER>; S; S
+   213.850000 122 <SIL>; S; S
+   213.953000 122 it's; ih t s; ih sh
+   214.203000 122 just; jh ah s t; jh ah s
+   214.323000 122 like; l ay k; ay
+   214.747000 122 bingo; b ih ng g ow; b ih ng g eh
+   215.263000 122 numbers; n ah m b er z; n ah m b er z
+   215.499327 122 <SIL>; S; S
+   215.848819 122 <IVER>; S; S
+   219.674000 122 <VOCNOISE>; U; U
+   220.181305 122 <SIL>; S; S
+   220.633234 122 <VOCNOISE>; U; U
+   220.970674 122 <SIL>; S; S
+   221.233000 122 and; ae n d; eh n
+   221.523478 122 you; y uw; y uw
+   221.766271 122 uh; ah; ah
+   222.280000 122 <SIL>; S; S
+   222.368000 122 it's; ih t s; ih s
+   222.574000 122 just; jh ah s t; ch ih s
+   222.714000 122 like; l ay k; l ay k
+   222.789000 122 the; dh iy; dh iy
+   223.021000 122 game; g ey m; g ey m
+   223.583000 122 battleship; b ae t el sh ih p; b ae dx el sh ih p
+   223.782000 122 pretty; p r ih t iy; p r iy
+   224.133000 122 much; m ah ch; m ah ch
+   224.374000 122 <SIL>; S; S
+   224.665951 122 yknow; y uw n ow; y ih nx ah
+   224.724000 122 <SIL>; S; S
+   224.985000 122 a; ey; ey
+   225.459000 122 four; f ow r; f ow r
+   225.684000 122 a; ey; ey
+   226.003000 122 two; t uw; t uw
+   226.142000 122 a; ey; ey
+   226.458000 122 seven; s eh v ah n; s eh v ah n
+   227.261517 122 <VOCNOISE>; U; U
+   227.555000 122 <SIL>; S; S
+   227.774000 122 and; ae n d; eh n
+   228.135000 122 um; ah m; ah m
+   229.220000 122 <SIL>; S; S
+   229.332000 122 well; w eh l; w ah
+   229.571000 122 off; aa f; ao f
+   229.631000 122 a; ey; ah
+   229.851000 122 three; th r iy; th r iy
+   230.201000 122 dollar; d aa l er; dx aa l er
+   230.420000 122 one; w ah n; w ah n
+   230.777000 122 i've; ay v; ay v
+   231.340000 122 won; w ah n; w ah n
+   231.705000 122 <SIL>; S; S
+   232.310000 122 probably; p r aa b ah b l iy; p r aa b l iy
+   232.412000 122 <VOCNOISE>; U; U
+   234.310000 122 <SIL>; S; S
+   234.675000 122 four; f ow r; f ao r
+   234.800000 122 out; aw t; aa dx
+   234.850000 122 of; ah v; ah
+   235.564000 122 five; f ay v; f ay v
+   235.940000 122 <SIL>; S; S
+   236.266000 122 yknow; y uw n ow; ih n ow
+   237.467000 122 <SIL>; S; S
+   237.609000 122 in; ih n; ih n
+   237.827000 122 that; dh ae t; ae t
+   238.437000 122 <SIL>; S; S
+   238.591000 122 i; ay; aa
+   238.872000 122 haven't; hh ae v ah n t; hh ae v ih m
+   239.087000 122 bought; b aa t; b ao t
+   239.247000 122 that; dh ae t; dh ae
+   239.567328 122 many; m eh n iy; m eh n iy
+   239.716000 122 of; ah v; ah v
+   239.817000 122 them; dh eh m; em
+   240.123265 122 but; b ah t; b ah t
+   240.406000 122 in; ih n; ih n
+   240.620000 122 that; dh ae t; ae t
+   240.697000 122 <SIL>; S; S
+   241.137000 122 race; r ey s; b r ey s
+   241.320000 122 <SIL>; S; S
+   241.472000 122 right; r ay t; r ay tq
+   241.797000 122 there; dh eh r; d eh r
+   242.093000 122 four; f ow r; f ao r
+   242.207000 122 out; aw t; aa dx
+   242.253000 122 of; ah v; ah
+   242.666000 122 fives; f ay v z; f ay v z
+   242.811000 122 not; n aa t; n aa t
+   242.967000 122 too; t uw; t uw
+   243.328000 122 bad; b ae d; b ae d
+   245.022000 122 <SIL>; S; S
+   245.217000 122 got; g aa t; g aa p
+   245.370000 122 my; m ay; m aa
+   245.741000 122 mom; m aa m; m aw m
+   245.976000 122 one; w ah n; w ah n
+   246.147000 122 on; aa n; ao n
+   246.262000 122 her; hh er; hh er
+   246.695000 122 birthday; b er th d ey; b er dh d ey
+   246.871000 122 she; sh iy; sh iy
+   247.021000 122 got; g aa t; g aa
+   247.451000 122 fifteen; f ih f t iy n; f ih f t iy n
+   247.881000 122 dollars; d aa l er z; d aa l er z
+   250.697000 122 <SIL>; S; S
+   251.237000 122 and; ae n d; eh n
+   251.565000 122 <SIL>; S; S
+   251.657000 122 the; dh iy; iy
+   251.837000 122 other; ah dh er; eh dh ih
+   252.191000 122 times; t ay m z; t aa m z
+   252.271000 122 i; ay; ay
+   252.491000 122 get; g eh t; g ih dx
+   252.644000 122 them; dh eh m; ah m
+   252.769000 122 i; ay; ay
+   253.161000 122 either; ay dh er; iy dh er
+   253.620000 122 win; w ih n; w eh n
+   254.221000 122 <SIL>; S; S
+   254.335000 122 my; m ay; m ay
+   254.546000 122 three; th r iy; th r iy
+   254.870000 122 dollars; d aa l er z; dx aa l uh z
+   255.326000 122 back; b ae k; b ae k
+   255.951000 122 <SIL>; S; S
+   256.323000 122 or; ow r; ao r
+   256.701000 122 <SIL>; S; S
+   256.761000 122 i; ay; aa
+   256.976000 122 won; w ah n; w ah n
+   257.199000 122 nine; n ay n; n ay n
+   257.611000 122 dollars; d aa l er z; d aa l eh z
+   265.077000 122 <SIL>; S; S
+   265.647000 122 hm; hh em; hh m
+   267.164955 122 <IVER>; S; S
+   267.653000 122 <SIL>; S; S
+   268.132124 122 yeah; y ae; y ae ah
+   268.223000 122 <SIL>; S; S
+   270.149000 122 <IVER>; S; S
+   271.395000 122 <LAUGH>; U; U
+   273.048000 122 <IVER>; S; S
+   273.447000 122 yeah; y ae; ey ae
+   274.447000 122 <SIL>; S; S
+   274.575821 122 that; dh ae t; eh k
+   274.702218 122 could; k uh d; k ih dx
+   274.980458 122 really; r iy l iy; r ih l iy
+   275.253440 122 bite; b ay t; b ay t
+   275.381000 122 you; y uw; sh ih
+   275.459712 122 in; ih n; ih n
+   275.553632 122 the; dh iy; n ah
+   275.880000 122 back; b ae k; b ae k
+   276.192415 122 though; dh ow; dh ah ow
+   277.010000 122 <SIL>; S; S
+   277.249000 122 winning; w ih n ih ng; w ih nx ih n
+   277.413000 122 all; aa l; ao l
+   277.562000 122 that; dh ae t; dh ae
+   277.893000 122 money; m ah n iy; m ah n iy
+   278.420000 122 <SIL>; S; S
+   278.575000 122 i'd; ay d; aa d
+   278.704000 122 be; b iy; b iy
+   279.808000 122 <SIL>; S; S
+   279.902000 122 well; w eh l; w ah
+   280.037000 122 i'd; ay d; ay d
+   280.190000 122 be; b iy; b iy
+   280.311000 122 <SIL>; S; S
+   280.636000 122 quite; k w ay t; k w ay
+   281.149000 122 content; k aa n t eh n t; k ih n t ehn tq
+   281.408000 122 with; w ih th; w uh th
+   281.646000 122 one; w ah n; w ah n
+   281.936000 122 million; m ih l y ah n; m eh iy n
+   282.286000 122 dollars; d aa l er z; d aa ah z
+   282.511000 122 but; b ah t; b uh tq
+   282.783000 122 <SIL>; S; S
+   283.087000 122 ten; t eh n; t eh n
+   283.396000 122 million; m ih l y ah n; m ah y ih n
+   283.819609 122 dollars; d aa l er z; d aa l ah z
+   284.005000 122 is; ih z; ih z
+   284.285789 122 kind; k ay n d; k ae n
+   284.422000 122 of; ah v; ah v
+   284.649000 122 like; l ay k; l ay k ah
+   285.022000 122 over; ow v er; ow v er
+   285.376000 122 kill; k ih l; k ih l
+   285.556000 122 <SIL>; S; S
+   286.675045 122 <LAUGH>; U; U
+   286.732000 122 i; ay; em
+   286.885000 122 mean; m iy n; m iy n
+   286.996000 122 do; d uw; d iy
+   287.099702 122 you; y uw; y uw
+   287.423000 122 think; th ih ng k; th ih ng k
+   287.857000 122 anybody; eh n iy b ah d iy; eh n iy b aa iy
+   287.999000 122 in; ih n; ih n
+   288.157000 122 this; dh ih s; ih s
+   288.475000 122 town; t aw n; t aw n
+   288.735000 122 has; hh ae z; hh ae z
+   288.945000 122 ten; t eh n; t eh n
+   289.262000 122 million; m ih l y ah n; m ah l y iy n
+   289.724000 122 dollars; d aa l er z; d aa hh ah r z
+   289.977561 122 <VOCNOISE>; U; U
+   290.241000 122 <SIL>; S; S
+   290.571000 122 well; w eh l; w ah l
+   290.641000 122 <SIL>; S; S
+   290.966000 122 <SIL>; S; S
+   291.201000 122 maybe; m ey b iy; m ey b iy
+   291.249000 122 a; ey; ih
+   291.591000 122 couple; k ah p el; k ah p el
+   291.641000 122 <SIL>; S; S
+   292.051000 122 people; p iy p el; p iy p ah l
+   292.781000 122 <LAUGH-couple_of_people_yes>; U; U
+   293.397398 122 <VOCNOISE>; U; U
+   295.135000 122 <IVER>; S; S
+   296.709000 122 <SIL>; S; S
+   297.062000 122 yeah; y ae; ng y ae
+   297.430000 122 <SIL>; S; S
+   297.728000 122 probably; p r aa b ah b l iy; p r ah l iy
+   297.918000 122 hafta; hh ae v t uw; eh f t ih
+   298.089000 122 go; g ow; g ah
+   298.189042 122 to; t uw; dx uh
+   298.696000 122 dublin; d ah b l ih n; d ah b l ah n
+   298.901000 122 or; ow r; er
+   299.570000 122 <SIL>; S; S
+   299.970000 122 yknow; y uw n ow; y ih n ow
+   300.100000 122 <SIL>; S; S
+   300.733000 122 worthington; w er dh ih ng t ah n; w er dh ih ng t ah n
+   301.136000 122 somewhere; s ah m w eh r; s ah m w er
+   301.369000 122 around; ah r aw n d; r aa n
+   301.490000 122 there; dh eh r; dh eh r
+   301.554909 122 to; t uw; ah
+   302.046000 122 find; f ay n d; f ay n
+   302.417000 122 <SIL>; S; S
+   302.710000 122 couple; k ah p el; k ah p el
+   303.380000 122 millionaires; m ih l y ah n eh r z; m ah l y ih n eh r z
+   307.387406 122 <SIL>; S; S
+   307.604000 122 but; b ah t; b ah dx
+   307.806000 122 uh; ah; ah
+   308.116000 122 <SIL>; S; S
+   310.015000 122 <IVER>; S; S
+   310.587000 122 <SIL>; S; S
+   311.299000 122 mm; em; em
+   311.453000 122 <SIL>; S; S
+   311.552000 122 <VOCNOISE>; U; U
+   311.893790 122 yeah; y ae; y ae ah
+   312.123000 122 <SIL>; S; S
+   312.305000 122 give; g ih v; g ih v
+   312.741000 122 some; s ah m; s ah m
+   313.311000 122 charity; ch ae r ah t iy; ch eh r ih dx iy
+   313.579000 122 and; ae n d; en
+   313.854000 122 <SIL>; S; S
+   314.058000 122 keep; k iy p; k iy
+   314.342000 122 care; k eh r; k eh r
+   314.393000 122 of; ah v; ih
+   314.477000 122 your; y ow r; y er
+   315.010000 122 bills; b ih l z; b ih l z
+   315.173000 122 and; ae n d; en
+   315.933000 122 <SIL>; S; S
+   316.183000 122 probably; p r aa b ah b l iy; p ah b l iy
+   316.306000 122 go; g ow; g eh
+   316.446000 122 on; aa n; ao n
+   316.516000 122 that; dh ae t; ae
+   317.083000 122 vacation; v ah k ey sh ah n; v ey k ey sh en
+   317.151000 122 you; y uw; y ih
+   317.343000 122 been; b ih n; b ih n
+   317.658000 122 dying; d ay ih ng; d ay ih m
+   318.023000 122 for; f ow r; f ow r
+   318.703000 122 <SIL>; S; S
+   318.853000 122 like; l ay k; ay k
+   318.953000 122 you're; y uw r; y er
+   319.287000 122 making; m ey k ih ng; m ey k ih n
+   319.493000 122 my; m ay; m ay
+   320.139000 122 brain; b r ey n; b r ey n
+   320.543000 122 water; w aa t er; w ao dx er
+   320.825000 122 here; hh ih r; hh ih r
+   321.186000 122 over; ow v er; ow v er
+   321.293000 122 <SIL>; S; S
+   322.037050 122 australia; aa s t r ey l y ah; ao s ch ey ah y ah
+   322.103000 122 <SIL>; S; S
+   323.236000 122 <LAUGH>; U; U
+   326.497940 122 <IVER>; S; S
+   326.804000 122 well; w eh l; w ah l
+   327.143000 122 yeah; y ae; y eh
+   327.571400 122 <SIL>; S; S
+   328.023077 122 <VOCNOISE>; U; U
+   328.230000 122 <SIL>; S; S
+   328.328000 122 it's; ih t s; uh t s
+   328.506000 122 kind; k ay n d; k eh nx
+   328.539000 122 of; ah v; ah
+   328.757000 122 like; l ay k; l ay k
+   328.999000 122 making; m ey k ih ng; m ey k en
+   329.073000 122 your; y ow r; y ah
+   329.384000 122 mouth; m aw th; m aw th
+   329.679000 122 water; w aa t er; w ao dx er
+   329.815000 122 when; w eh n; w ih n
+   329.896000 122 you; y uw; y ih
+   330.139000 122 see; s iy; s iy
+   330.640000 122 food; f uw d; f uw d
+   330.759000 122 <SIL>; S; S
+   334.405211 122 <SIL>; S; S
+   334.851000 122 <LAUGH>; U; U
+   335.842366 122 <IVER>; S; S
+   336.936000 122 <SIL>; S; S
+   337.036000 122 and; ae n d; eh n
+   337.171000 122 this; dh ih s; ih z
+   337.296000 122 is; ih z; uh z
+   337.476000 122 my; m ay; m ay
+   338.064000 122 consent; k ah n s eh n t; k ih n s ehn tq
+   338.102918 122 <SIL>; S; S
+   338.291061 122 to; t uw; t ah
+   338.457000 122 let; l eh t; l eh t
+   338.607794 122 you; y uw; sh iy
+   338.886389 122 use; y uw z; y uw z
+   339.063666 122 that; dh ae t; dh ae tq
+   339.220750 122 <SIL>; S; S
+   340.530000 122 <LAUGH>; U; U
+   343.308000 122 <SIL>; S; S
+   343.793144 122 yeah; y ae; y eh ah
+   344.746850 122 <VOCNOISE>; U; U
+   350.436804 122 <IVER>; S; S
+   352.014741 122 <SIL>; S; S
+   354.097150 122 <IVER>; S; S
+   354.513000 122 <SIL>; S; S
+   354.838000 122 um-hum; em hh em; em hh em
+   355.862791 122 <SIL>; S; S
+   356.484580 122 <IVER>; S; S
+   357.997992 122 <SIL>; S; S
+   359.178000 122 <IVER>; S; S
+   360.076000 122 <SIL>; S; S
+   360.343000 122 i; ay; aa
+   360.563000 122 went; w eh n t; w eh t
+   360.858316 122 to; t uw; t uh
+   360.987000 122 <VOCNOISE>; U; U
+   361.321653 122 <SIL>; S; S
+   361.362000 122 a; ey; ah
+   361.625000 122 lot; l aa t; l aa dx
+   361.803000 122 of; ah v; ah v
+   361.945000 122 them; dh eh m; em
+   362.803000 122 <SIL>; S; S
+   362.865000 122 i; ay; ow
+   363.011000 122 went; w eh n t; w ehn tq
+   363.343000 122 <SIL>; S; S
+   363.583000 122 middle; m ih d el; m ih dx ah l
+   363.909465 122 school; s k uw l; s k uw
+   364.019000 122 i; ay; ah
+   364.193000 122 went; w eh n t; w eh n
+   364.482000 122 to; t uw; t ah
+   365.887000 122 <SIL>; S; S
+   366.736000 122 clinton; k l ih n t ah n; k l ehn tq en eh
+   366.806000 122 <SIL>; S; S
+   367.031000 122 and; ae n d; eh n
+   367.847552 122 indianola; ih n d iy ah n ow l ah; ih n d iy ih n ow l ah
+   367.958000 122 <SIL>; S; S
+   368.160000 122 high; hh ay; hh ay
+   368.449000 122 school; s k uw l; s k uw
+   368.548700 122 i; ay; ah
+   368.702000 122 went; w eh n t; w eh n
+   368.838000 122 to; t uw; t ih
+   369.498000 122 brookhaven; b r uh k hh ey v ah n; b r uh k hh ey v en
+   369.795000 122 <SIL>; S; S
+   369.930000 122 and; ae n d; eh n
+   370.230000 122 fort; f ow r t; f ao r dx
+   370.738000 122 hayes; hh ey s; hh ey z
+   371.974000 122 <SIL>; S; S
+   372.372000 122 and; ae n d; ae n
+   373.901000 122 <SIL>; S; S
+   374.261000 122 well; w eh l; w eh l
+   374.516000 122 they're; dh ey er; dh eh r
+   374.583000 122 <UNKNOWN>; U; U
+   375.020926 122 <IVER>; S; S
+   375.550000 122 <SIL>; S; S
+   375.832000 122 yeah; y ae; y ae
+   376.210000 122 one's; w ah n z; w ah n z
+   376.274000 122 a; ey; eh
+   376.323000 122 <SIL>; S; S
+   376.876000 122 alternative; aa l t er n ah t ih v; ao l t er n d ih v
+   377.298000 122 school; s k uw l; s k ow l
+   377.440520 122 and; ae n d; ah n
+   377.550000 122 the; dh iy; iy
+   377.711000 122 other; ah dh er; eh dh uh
+   378.010000 122 one's; w ah n z; w ah n z
+   378.284000 122 just; jh ah s t; jh eh s
+   378.490000 122 a; ey; ah
+   378.680000 122 <SIL>; S; S
+   379.044000 122 regular; r eh g y uh l er; r eh g y ih l er
+   379.494000 122 trashy; t r ae sh iy; ch r ae sh iy
+   379.840000 122 public; p ah b l ih k; p ah b l uh k
+   380.177000 122 school; s k uw l; s k uw l
+   381.696000 122 <LAUGH>; U; U
+   385.716000 122 <IVER>; S; S
+   386.577000 122 <SIL>; S; S
+   387.037000 122 well; w eh l; w ah l
+   387.367000 122 <SIL>; S; S
+   387.577000 122 this; dh ih s; dh ih s
+   387.772308 122 is; ih z; uh z
+   388.247000 122 about; ah b aw t; ah b aw
+   388.530000 122 giving; g ih v ih ng; g ih v en
+   389.167000 122 opinions; ah p ih n y ah n z; ah p ih n y eh n z
+   389.418000 122 and; ae n d; en
+   389.557000 122 <SIL>; S; S
+   389.659000 122 my; m ay; m ay
+   390.087000 122 opinion; ah p ih n y ah n; eh p ih n y eh m
+   390.222000 122 about; ah b aw t; b aa
+   390.307000 122 the; dh iy; t
+   390.677000 122 columbus; k ow l ah m b ah s; k l ah m uh s
+   390.983835 122 public; p ah b l ih k; p ah b l uh k
+   391.299000 122 school; s k uw l; s k uh
+   391.840093 122 system; s ih s t ah m; s ah s t ah m
+   392.337000 122 really; r iy l iy; r ih l iy
+   392.697000 122 <SIL>; S; S
+   393.028000 122 isn't; ih z ah n t; ih z en
+   393.387000 122 good; g uh d; g uh d
+   393.527000 122 <SIL>; S; S
+   394.453000 122 <IVER>; S; S
+   395.283000 122 <SIL>; S; S
+   395.460000 122 well; w eh l; w ah
+   395.816000 122 because; b ih k ah z; b iy k eh z
+   395.948000 122 i've; ay v; ay v
+   396.110000 122 been; b ih n; b ih n
+   396.254000 122 in; ih n; ih m
+   396.603000 122 public; p ah b l ih k; p ah b l uh k
+   396.996000 122 schools; s k uw l z; s k uw l z
+   397.133000 122 all; aa l; l ao w
+   397.280000 122 my; m ay; m aa
+   397.684000 122 life; l ay f; l ay f
+   397.751000 122 and; ae n d; eh n
+   397.863000 122 i; ay; ay
+   398.093000 122 should; sh uh d; sh ih d
+   398.443000 122 be; b iy; b iy
+   398.652000 122 <SIL>; S; S
+   399.023000 122 first; f er s t; f er s
+   399.126000 122 to; t uw; t ih
+   399.415000 122 know; n ow; n ow
+   399.596000 122 that; dh ae t; dh uh t
+   399.943000 122 there's; dh eh r z; dh eh r z
+   400.163000 122 uh; ah; ah
+   400.707842 122 <VOCNOISE>; U; U
+   401.589000 122 <SIL>; S; S
+   401.789000 122 lot; l aa t; l aa dx
+   401.998000 122 of; ah v; ah v
+   402.081000 122 <UNKNOWN>; U; U
+   402.644000 122 <SIL>; S; S
+   403.698000 122 favoritism; f ey v ah r ih t ih z ah m; f ey v er t ih z ah m
+   404.700000 122 <SIL>; S; S
+   405.131000 122 yknow; y uw n ow; n ow
+   406.267000 122 <SIL>; S; S
+   406.673000 122 some; s ah m; s ah m
+   406.821000 122 <SIL>; S; S
+   407.046127 122 some; s ah m; s ah m
+   407.533000 122 teachers; t iy ch er z; t iy ch er z
+   407.723000 122 will; w ih l; b uh
+   407.773000 122 <SIL>; S; S
+   408.235000 122 teach; t iy ch; t iy ch
+   408.275000 122 <SIL>; S; S
+   408.661000 122 one; w ah n; w ah n
+   408.868000 122 but; b ah t; b eh d
+   409.091000 122 not; n aa t; n aa t
+   409.508000 122 teach; t iy ch; t iy ch
+   409.653000 122 the; dh iy; dh iy
+   409.936000 122 other; ah dh er; ah dh er
+   410.093000 122 <SIL>; S; S
+   411.618000 122 <IVER>; S; S
+   412.295000 122 <SIL>; S; S
+   412.522000 122 well; w eh l; w ah
+   412.796000 122 if; ih f; ah f
+   413.456000 122 <IVER>; S; S
+   413.741000 122 yeah; y ae; y eh
+   414.189000 122 teach; t iy ch; t iy ch
+   414.428000 122 one; w ah n; w ah n
+   415.108000 122 person; p er s ah n; p er s ah n
+   415.291000 122 <SIL>; S; S
+   415.516000 122 one; w ah n; w ah n
+   415.923000 122 thing; th ih ng; th ih ng
+   416.222000 122 <SIL>; S; S
+   416.612000 122 and; ae n d; ae n
+   416.733000 122 <SIL>; S; S
+   416.930000 122 not; n aa t; n aa tq
+   417.298000 122 teach; t iy ch; t iy ch
+   417.394000 122 the; dh iy; iy
+   417.542000 122 other; ah dh er; eh dh er
+   417.947000 122 person; p er s ah n; p er s en
+   418.121000 122 that; dh ae t; ae t
+   419.419000 122 <SIL>; S; S
+   419.721000 122 kind; k ay n d; k ae nx
+   419.873000 122 of; ah v; ah
+   420.341117 122 <VOCNOISE>; U; U
+   421.659000 122 <SIL>; S; S
+   421.837000 122 let; l eh t; l eh
+   422.003000 122 me; m iy; m iy
+   422.366000 122 see; s iy; s iy
+   422.673000 122 here; hh ih r; hh ih r
+   424.164000 122 <SIL>; S; S
+   424.406000 122 give; g ih v; g ih v
+   424.504000 122 an; ae n; uh n
+   425.083000 122 example; eh g z ae m p el; iy g z ae m p el
+   425.359000 122 there's; dh eh r z; dh eh r z
+   425.582145 122 uh; ah; ah
+   425.633542 122 <VOCNOISE>; U; U
+   426.731000 122 <SIL>; S; S
+   426.823000 122 there's; dh eh r z; er z
+   426.897000 122 a; ey; ah
+   427.318000 122 school; s k uw l; s k uw l
+   427.496000 122 that; dh ae t; dh l eh t
+   427.632000 122 they; dh ey; dh ey
+   427.945000 122 showed; sh ow d; sh ow dx
+   428.089000 122 on; aa n; ao n
+   428.415000 122 twenty; t w eh n t iy; t w ah nx iy
+   428.860000 122 twenty; t w eh n t iy; t w ah nx iy
+   429.151749 122 <SIL>; S; S
+   429.503705 122 <VOCNOISE>; U; U
+   429.824000 122 <SIL>; S; S
+   430.222000 122 somewhere; s ah m w eh r; s ah m w eh r
+   430.388000 122 out; aw t; aw tq
+   430.942000 122 west; w eh s t; w eh s t
+   431.333000 122 <SIL>; S; S
+   431.536000 122 i; ay; aa
+   431.916000 122 believe; b ih l iy v; b uh l iy v
+   432.143000 122 it's; ih t s; ih t s
+   432.630000 122 nevada; n ah v ae d ah; n ah v ae dx eh
+   432.693000 122 or; ow r; er
+   433.214000 122 somewhere; s ah m w eh r; s ah m w eh r
+   433.815164 122 <VOCNOISE>; U; U
+   434.267000 122 <SIL>; S; S
+   434.355000 122 and; ae n d; en
+   434.447000 122 they; dh ey; ey
+   434.873000 122 said; s eh d; s eh d
+   435.117000 122 that; dh ae t; dh eh tq
+   436.000000 122 <SIL>; S; S
+   436.279000 122 these; dh iy z; iy z
+   436.534000 122 uh; ah; ah
+   437.500000 122 <SIL>; S; S
+   438.087000 122 teachers; t iy ch er z; t iy ch er z
+   438.537000 122 have; hh ae v; hh ae v
+   438.680000 122 the; dh iy; dh ah
+   439.160000 122 highest; hh ay ah s t; hh ay eh s
+   439.644000 122 rating; r ey t ih ng; r ey d ih ng
+   440.148000 122 <SIL>; S; S
+   440.491000 122 among; ah m ah ng; m ah ng
+   441.071000 122 <SIL>; S; S
+   441.394000 122 many; m eh n iy; m eh nx iy
+   441.582754 122 other; ah dh er; eh dh ih
+   442.279000 122 teachers; t iy ch er z; t iy ch er z
+   442.350000 122 <SIL>; S; S
+   442.453753 122 in; ih n; eh n
+   442.516000 122 the; dh iy; ah
+   442.941000 122 nation; n ey sh ah n; n ey sh eh n
+   443.356323 122 because; b ih k ah z; b ih k ah z
+   443.413668 122 of; ah v; uh
+   443.706000 122 their; dh eh r; dh eh r
+   443.806000 122 <SIL>; S; S
+   444.331000 122 actual; ae k ch uw el; ae k sh uw ow l
+   444.916000 122 <SIL>; S; S
+   445.314000 122 sitting; s ih t ih ng; s ih tq en
+   445.676000 122 down; d aw n; d aw n
+   445.723000 122 and; ae n d; en
+   446.196000 122 hands; hh ae n d z; hh ae n z
+   446.648528 122 on; aa n; ow ah n
+   446.848000 122 <SIL>; S; S
+   447.535000 122 critiquing; k r ih t iy k ih ng; k r ih t iy k iy ng
+   447.816000 122 these; dh iy z; n iy z
+   448.266000 122 children; ch ih l d r ah n; ch ih l d r eh n
+   448.761561 122 <VOCNOISE>; U; U
+   449.346000 122 <SIL>; S; S
+   449.715000 122 like; l ay k; l ay k
+   449.970000 122 uh; ah; ah
+   450.714912 122 <VOCNOISE>; U; U
+   452.012000 122 <SIL>; S; S
+   452.223000 122 ex; eh k s; eh k s
+   452.679000 122 girlfriend; g er l f r eh n d; g er l f r eh nx
+   452.716000 122 of; ah v; ah
+   453.132000 122 mine; m ay n; m ay n
+   454.292000 122 <SIL>; S; S
+   454.602000 122 she; sh iy; sh iy
+   455.202000 122 was; w ah z; w uw z
+   455.436000 122 <SIL>; S; S
+   455.812000 122 pretty; p r ih t iy; p r ih dx iy
+   456.396000 122 much; m ah ch; m ah ch
+   457.083000 122 <SIL>; S; S
+   457.153000 122 i; ay; aa
+   457.431000 122 wouldn't; w uh d en t; w uh d en
+   457.546000 122 <SIL>; S; S
+   457.769000 122 put; p uh t; p uh dx
+   457.863000 122 her; hh er; er
+   458.437000 122 borderline; b ow r d ah l ay n; b ao r dx er l ay n
+   459.095000 122 illiterate; ih l ih t ah r ah t; ih l ih dx er ih tq
+   459.279000 122 <SIL>; S; S
+   459.506000 122 but; b ah t; b uh tq
+   459.763000 122 <SIL>; S; S
+   460.083000 122 she; sh iy; sh iy
+   460.390000 122 didn't; d ih d en t; d ih d en
+   460.543000 122 know; n ow; n ah
+   460.723000 122 how; hh aw; hh aa
+   460.822487 122 to; t uw; dx ah
+   461.197000 122 read; r iy d; r iy d
+   461.392000 122 or; ow r; ao r
+   461.745482 122 write; r ay t; r ay
+   461.756896 122 {E_TRANS}; E; E

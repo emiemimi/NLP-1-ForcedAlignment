@@ -1,5 +1,4 @@
 import os
-import csv
 
 def get_items(data):
     nb_items = int(data[6].strip('\n')[7:]) # get i from the 7th line ('size = i')
@@ -45,8 +44,11 @@ for file in files:
         raw = f.readlines()
         data = get_items(raw)
     name, ext = os.path.splitext(file)
+    lst = ['_words', '_grouped_phonemes', '_phonemes']
     for i in range(len(data)):
-        newfile = name + str(i) + '.csv'
+        newfile = name + lst[i] + '.csv'
         with open(newfile, 'w') as f:
+            f.write('start;end;utterance\n')
             for tpl in data[i]:
-                f.write(str(tpl).strip('()') + '\n')
+                line = ";".join([str(x) for x in tpl])
+                f.write(line + '\n')

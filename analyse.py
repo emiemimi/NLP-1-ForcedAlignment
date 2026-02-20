@@ -1,6 +1,12 @@
+from itertools import count
+
 import pandas as pd
 import numpy as np
 from collections import defaultdict
+import os
+import seaborn as sns
+import matplotlib.pyplot as plt
+from scipy import stats
 
 
 def get_df_from_csv(file):
@@ -23,7 +29,10 @@ def match(df1, df2):
     # remove rows where overlap is negative, and reset indexes
     df_match = df_match[df_match['overlap'] > 0].reset_index(drop=True)
 
-    return df_match[['utterance', 'start_gold', 'start_other', 'end_gold', 'end_other']]
+    # add duration column for linear regression later
+    df_match['duration_gold'] = df_match['end_gold'] - df_match['start_gold']
+
+    return df_match[['utterance', 'duration_gold', 'start_gold', 'start_other', 'end_gold', 'end_other']]
 
 
 def analyse(df):
@@ -51,6 +60,22 @@ def analyse(df):
 
     return df, indicators
 
+def linear_regression(df, x_par, y_par, data_and_aligner):
+    sns.regplot(data=df, x=x_par, y=y_par, scatter_kws={'s':10}, line_kws={'color': 'blue', 'linewidth': 0.8})
+    plt.xlabel(x_par)
+    plt.ylabel(y_par)
+    data, forced_aligner = data_and_aligner.split('_')
+    plt.title('Gold vs ' + forced_aligner + ': ' + data)
+    plt.show()
+    plt.savefig('linreg_' + data_and_aligner + '.png')
+    slope, intercept, r_value, p_value, std_err = stats.linregress(df[x_par], df[y_par])
+    return {
+            'Intercept': intercept,
+            'Coefficient': slope,
+            'R-squared': r_value**2,
+            'P-value': p_value
+            }
+
 
 file_pairs = [
     ('data/gold/sentence3_manual_words.csv', 'data/MAUS/sentence3_MAUS_words.csv'),
@@ -68,8 +93,11 @@ for pair in file_pairs:
     df_match = match(gold, other)
     df, dict = analyse(df_match)
     print('Gold length:', len(gold), '\t\tNb of matches found:', len(df), '\t\tMissing:', len(gold) - len(df))
-    print('INDICATORS')
+    print('ERROR STATS')
     for key, value in dict.items():
         print('\t', key, '\t', round(value,3))
     print()
-
+    path, ext = os.path.splitext(pair[1])
+    info = '_'.join(path.split('/')[-1].split('_')[:2])
+    df_without_non_words = df[~df['utterance'].isin(['<iver>', '<laugh>', '<noise>', '<sil>', '<vocnoise>'])]
+    linear_regression(df[df['duration_gold'] < 1], 'duration_gold', 'signed_start_error', info)

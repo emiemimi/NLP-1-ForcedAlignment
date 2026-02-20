@@ -17,7 +17,7 @@ def get_to_csv(file, type):
         for i in range(len(data) - 1):
             start = data[i][j:].split(' ')[0]
             end = data[i + 1][j:].split(' ')[0]
-            utterance = data[i][j:].split(' ')[2+k].strip(';\n')
+            utterance = data[i + 1][j:].split(' ')[2+k].strip(';\n')
             line = ';'.join([start, end, utterance])
             f.write(line + '\n')
 

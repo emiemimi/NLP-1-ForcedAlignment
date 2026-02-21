@@ -35,7 +35,7 @@ def match(df1, df2):
     return df_match[['utterance', 'duration_gold', 'start_gold', 'start_other', 'end_gold', 'end_other']]
 
 
-def analyse(df):
+def calculate(df):
     indicators = defaultdict(float)
 
     df['signed_start_error'] = df['start_other'] - df['start_gold']
@@ -67,7 +67,7 @@ def linear_regression(df, x_par, y_par, data_and_aligner):
     data, forced_aligner = data_and_aligner.split('_')
     plt.title('Gold vs ' + forced_aligner + ': ' + data)
     plt.show()
-    plt.savefig('linreg_' + data_and_aligner + '.png')
+    plt.savefig('plots/linreg_' + data_and_aligner + '.png')
     slope, intercept, r_value, p_value, std_err = stats.linregress(df[x_par], df[y_par])
     return {
             'Intercept': intercept,
@@ -91,13 +91,16 @@ for pair in file_pairs:
     gold = get_df_from_csv(pair[0])
     other = get_df_from_csv(pair[1])
     df_match = match(gold, other)
-    df, dict = analyse(df_match)
+    df, dict = calculate(df_match)
     print('Gold length:', len(gold), '\t\tNb of matches found:', len(df), '\t\tMissing:', len(gold) - len(df))
     print('ERROR STATS')
     for key, value in dict.items():
         print('\t', key, '\t', round(value,3))
-    print()
     path, ext = os.path.splitext(pair[1])
     info = '_'.join(path.split('/')[-1].split('_')[:2])
     df_without_non_words = df[~df['utterance'].isin(['<iver>', '<laugh>', '<noise>', '<sil>', '<vocnoise>'])]
-    linear_regression(df[df['duration_gold'] < 1], 'duration_gold', 'signed_start_error', info)
+    linreg = linear_regression(df[df['duration_gold'] < 1], 'duration_gold', 'signed_start_error', info)
+    print('LINEAR REGRESSION: duration <- signed start error')
+    for key, value in linreg.items():
+        print('\t', key, '\t', round(value,3))
+    print()
